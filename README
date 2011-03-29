@@ -1,0 +1,2 @@
+
+# vi README  // 注解 新文件 直接vi保存后，需要git add文件，然后加入 git commit -m  再 git push  origin master
